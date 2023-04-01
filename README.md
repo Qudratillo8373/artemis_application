@@ -1,5 +1,6 @@
-
-
-# aretemis
-<img width="689" alt="Screenshot 2023-04-01 at 3 17 22 PM" src="https://user-images.githubusercontent.com/103330632/229312876-5aec17e7-f5c0-40bd-88c7-cfac137d64eb.png">
-
+# Artemis E-commerse Web-Application
+Pre Build process be fore you deploy the application please open port 5000 on Security Group and then follow the bellow commands.
+```
+yum install python-pip -y
+pip install Flask
+```
