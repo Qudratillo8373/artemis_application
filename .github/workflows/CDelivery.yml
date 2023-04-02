@@ -46,11 +46,11 @@ jobs:
       
 
 
-      - name: Remove Old Images
-        working-directory: ${{ env.app_name }}
-        run: | 
-           echo "hell0"
-          #  docker image prune -af
+      # - name: Remove Old Images
+      #   working-directory: ${{ env.app_name }}
+      #   run: | 
+      #      echo "hell0"
+      #     #  docker image prune -af
 
 
 
