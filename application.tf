@@ -43,5 +43,4 @@ ingress:
 
 
 
-	git config --global  user.name     lucas-020
-	git config --global  user.email     projectx7cluster@gmail.com
+
