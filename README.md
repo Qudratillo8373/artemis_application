@@ -38,7 +38,7 @@ cd chart
 #### 5. Verify
 ```
  * helm list
- * kubectl get get all
+ * kubectl get all
 ```
 #### 6. Unistall helm chart
 ```
@@ -61,6 +61,6 @@ https://github.com/farrukh90/artemis/tree/master
 
  * docker push "artemis repo from GCP"/artemis:2.0.0 .
 
- * git chekout 2.0.0
+ * git checkout 2.0.0
  ```
 
