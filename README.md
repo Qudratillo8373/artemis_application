@@ -10,7 +10,7 @@ Pre Build process be fore you deploy the application please open port 5000 on Se
 yum install python-pip -y
 pip install Flask
 ```
-### If you are installing the hel for the first time, you can follow these steps.
+### If you are installing the helm for the first time, you can follow these steps.
 
 1. Read helm compatibility 
 ```
